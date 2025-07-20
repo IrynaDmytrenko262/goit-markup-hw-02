@@ -78,6 +78,7 @@
 
   .team-title,
   .portfolio-title{
+      text-transform: capitalize;
       font-weight: 700;
       font-size: 36px;
       line-height: 1.11;
@@ -98,7 +99,6 @@
         letter-spacing: 0.02em;
         text-align: center;
         color: #fff;
-        margin-bottom: 40px;
   }
 
   .button{
@@ -151,7 +151,7 @@
   }
 
   .team-list{
-
+      background-color: #FFFFFF
   }
 
   /*main-section-portfolio*/
