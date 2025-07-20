@@ -102,6 +102,10 @@
   }
 
   .button{
+      font-weight: 500;
+      font-size: 16px;
+      line-height: 1.5;
+      letter-spacing: 0.04em;
       cursor: pointer;
       color: #fff;
       background-color: #4d5ae5
@@ -115,7 +119,7 @@
   /*main-sections-qualitys*/
 
   .qualitys{
-    background-color: #fff
+
   }
 
   .qualitys-title{
@@ -149,7 +153,25 @@
   .team-list{
 
   }
-  
+
+  /*main-section-portfolio*/
+
+  .portfolio{
+
+  }
+
+  .portfolio-div-one,
+  .portfolio-div-two{
+
+  }
+
+  .portfolio-list{
+
+  }
+
+  .portfolio-list-item{
+    background: #fff;
+  }
   /*footer*/
 
   .page-footer{
