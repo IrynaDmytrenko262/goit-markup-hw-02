@@ -45,7 +45,7 @@
     font-style: normal;
   }
 
-  .contacts-link{
+  .contacts-list{
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -74,17 +74,6 @@
       line-height: 1.5;
       letter-spacing: 0.02em;
       color: #434455;
-  }
-
-  .team-title,
-  .portfolio-title{
-      text-transform: capitalize;
-      font-weight: 700;
-      font-size: 36px;
-      line-height: 1.11;
-      letter-spacing: 0.02em;
-      text-align: center;
-      color: #2e2f42;
   }
 
   .hero{
@@ -136,6 +125,17 @@
 
   /*main-sections-team*/
 
+  .team-title,
+  .portfolio-title{
+      text-transform: capitalize;
+      font-weight: 700;
+      font-size: 36px;
+      line-height: 1.11;
+      letter-spacing: 0.02em;
+      text-align: center;
+      color: #2e2f42;
+  }
+
   .team{
     background: #f4f4fd;
   }
@@ -149,7 +149,7 @@
       color: #2e2f42;
   }
 
-  .team-list{
+  .team-list-item{
       background-color: #FFFFFF
   }
 
